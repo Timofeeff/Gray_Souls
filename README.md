@@ -79,7 +79,7 @@ ____
 ![](https://img.itch.zone/aW1nLzE2MTQ3ODQ1LmdpZg==/original/9wdj5V.gif)
 ____
 ### Дополнительно
-:large_blue_circle: Игра создана в стиле пиксель -арта.
+:large_blue_circle: Игра создана в стиле пиксель-арта.
 
 :large_blue_circle: Используется 8-битное музыкальное сопровождение.
 
