@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: fb3ea5a4f10246148aa1db94a4980ef8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 681
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd04cafd37268514ea7a01d97a468c66
+      internalID: 1218858125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 681
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba020f2cac4544390fb63a8a3b6ee7
+      internalID: -692514478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 681
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6906c4244c805745a370a278e1dee64
+      internalID: -81077138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 681
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b51494dd616b64da22ad0232c7b8ac
+      internalID: 1548568922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 681
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dadc6db414a2dc499a529b4c928dba3
+      internalID: 879973737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 681
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc023172a9b274ba741309b704abb5
+      internalID: 330293714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 681
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89cabdb5524db40afff8a61dd32bba
+      internalID: 156394129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 681
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a97f2c2da3670d4eb0b77bf65448ff3
+      internalID: -1454233645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_103
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 217
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdce30aad4e9f2488770bd485f7c58e
+      internalID: 1580175181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_104
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 217
+        width: 157
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040d4f034ed3cd4eb27e06e52daf82b
+      internalID: -1305229350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_105
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 217
+        width: 151
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9100f892dec322140829c294a71d577f
+      internalID: 102579602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_106
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 217
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e7c43c38e7f8499c73be950cf4b1f
+      internalID: 421614668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dragon_83: 1180282963
+      Dragon_71: -1245467066
+      Dragon_147: 2049669428
+      Dragon_96: -1411096781
+      Dragon_162: -1487543718
+      Dragon_23: -1758670039
+      Dragon_122: 1121593879
+      Dragon_126: 348284511
+      Dragon_159: -868638954
+      Dragon_66: -413638061
+      Dragon_86: 2138576075
+      Dragon_31: -1503666779
+      Dragon_67: -783359404
+      Dragon_68: 1877315330
+      Dragon_70: -1497834475
+      Dragon_25: 5594277
+      Dragon_129: -1648171033
+      Dragon_112: -490325621
+      Dragon_24: 1895451096
+      Dragon_89: 1234945992
+      Dragon_52: 100376185
+      Dragon_128: -1831566223
+      Dragon_132: 801861986
+      Dragon_124: 1455426940
+      Dragon_87: 1845461136
+      Dragon_101: 1620881633
+      Dragon_141: -1561923256
+      Dragon_34: -785747053
+      Dragon_16: -806927994
+      Dragon_45: -1797103637
+      Dragon_97: -1869307267
+      Dragon_166: 171872814
+      Dragon_82: -1419307626
+      Dragon_14: 1455279553
+      Dragon_98: 1569561957
+      Dragon_81: -354709195
+      Dragon_91: 26531901
+      Dragon_65: 527827354
+      Dragon_102: -1006152421
+      Dragon_59: -858183958
+      Dragon_1: -692514478
+      Dragon_21: -1868266553
+      Dragon_109: 30979201
+      Dragon_84: 1432721739
+      Dragon_77: -1329546739
+      Dragon_160: -614256782
+      Dragon_114: -1525034627
+      Dragon_19: -557492695
+      Dragon_29: 65384756
+      Dragon_46: -1881515107
+      Dragon_169: -936028079
+      Dragon_62: -1724345245
+      Dragon_95: -1048638894
+      Dragon_163: -1931485772
+      Dragon_154: 2021979631
+      Dragon_51: -807136146
+      Dragon_49: -327132754
+      Dragon_113: 1218457016
+      Dragon_120: -1214328073
+      Dragon_131: -1653500890
+      Dragon_48: 110865416
+      Dragon_74: -1188460940
+      Dragon_41: 1411283371
+      Dragon_146: -1305092874
+      Dragon_80: 1534077532
+      Dragon_15: 2083115603
+      Dragon_57: -1544660594
+      Dragon_121: 1499738088
+      Dragon_40: -1265928018
+      Dragon_54: 1083079580
+      Dragon_27: 2077522538
+      Dragon_32: -1836557339
+      Dragon_106: 421614668
+      Dragon_99: -925671446
+      Dragon_43: -547639009
+      Dragon_117: -777995641
+      Dragon_47: 590399962
+      Dragon_127: 1770292607
+      Dragon_30: 329011895
+      Dragon_164: 413267601
+      Dragon_150: 249970467
+      Dragon_90: 177202646
+      Dragon_123: 2064104067
+      Dragon_73: -570250596
+      Dragon_42: -1185411552
+      Dragon_153: 1886254989
+      Dragon_26: 782774420
+      Dragon_92: 1780312716
+      Dragon_105: 102579602
+      Dragon_7: -1454233645
+      Dragon_11: -193436609
+      Dragon_93: 705507696
+      Dragon_161: 2000217074
+      Dragon_56: -958185717
+      Dragon_137: -1238628318
+      Dragon_69: 135257852
+      Dragon_64: -465724758
+      Dragon_5: 330293714
+      Dragon_53: 1436577704
+      Dragon_0: 1218858125
+      Dragon_8: 1529284306
+      Dragon_130: 1209067418
+      Dragon_100: 273074206
+      Dragon_6: 156394129
+      Dragon_133: 165167684
+      Dragon_158: -565395317
+      Dragon_142: -1478806900
+      Dragon_148: -1197295847
+      Dragon_152: 1594769872
+      Dragon_55: -1062341034
+      Dragon_85: -1727789925
+      Dragon_4: 879973737
+      Dragon_94: -22561717
+      Dragon_145: -1586531191
+      Dragon_72: -2006720528
+      Dragon_20: -1605564978
+      Dragon_35: 896801831
+      Dragon_76: 1313849406
+      Dragon_61: 911295875
+      Dragon_165: -2122620934
+      Dragon_167: -425914710
+      Dragon_140: 344573528
+      Dragon_38: 1702891114
+      Dragon_134: 1383314247
+      Dragon_157: 2054048063
+      Dragon_3: 1548568922
+      Dragon_37: 1978085766
+      Dragon_60: -1130819043
+      Dragon_39: -1337391522
+      Dragon_78: 494101694
+      Dragon_110: -2005357179
+      Dragon_28: -1037503702
+      Dragon_149: 140512366
+      Dragon_118: 391552646
+      Dragon_116: 856800108
+      Dragon_115: -1791159697
+      Dragon_88: -2077930259
+      Dragon_79: -1326295625
+      Dragon_58: 1384961188
+      Dragon_155: 1789155553
+      Dragon_75: -818686686
+      Dragon_22: -894579437
+      Dragon_125: -2079023819
+      Dragon_144: -14195698
+      Dragon_170: -536673106
+      Dragon_18: 981388339
+      Dragon_2: -81077138
+      Dragon_17: -1584225562
+      Dragon_111: -1421011387
+      Dragon_156: 209228020
+      Dragon_119: -1649786773
+      Dragon_135: 806490053
+      Dragon_10: 2114743437
+      Dragon_104: -1305229350
+      Dragon_103: 1580175181
+      Dragon_151: -870453939
+      Dragon_12: -334246451
+      Dragon_33: -1888280936
+      Dragon_44: -1668622694
+      Dragon_63: 335272792
+      Dragon_143: 1190238312
+      Dragon_13: 620595294
+      Dragon_36: 2111003256
+      Dragon_168: -1053175928
+      Dragon_136: 122548506
+      Dragon_108: -944988175
+      Dragon_50: -804072097
+      Dragon_138: -1481798796
+      Dragon_107: 79469659
+      Dragon_9: -1309840451
+      Dragon_139: -953401876
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
